@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "gmoedav8/moeda"
+	"$model"             "1"            
+	"$nodecal"          "1" 
+	"$surfaceprop" "metal"	
+	"$halflambert"  "1" 
+	"$selfillum" "1"
+	"$blendtintbybasealpha" "1"
+
+}
